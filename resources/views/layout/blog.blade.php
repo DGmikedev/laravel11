@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout name-page="MDG | BLOG">
     <h1>BLOG</h1>
     <x-slot:sidebar>
         <br>
